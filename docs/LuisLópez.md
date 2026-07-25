@@ -1,6 +1,5 @@
-#Nombre
-**Luis Alejandro López López**
-##Rol en el equipo
-**Desarrollador Frontend y Backend**
-##Experiencia
+# Luis Alejandro López López
+## Rol en el equipo
+Desarrollador Frontend y Backend
+## Experiencia
 Experiencia desarrollando aplicaciones en diferentes tecnologías, principalmente C#, .NET, Blazor y Radzen Components.
